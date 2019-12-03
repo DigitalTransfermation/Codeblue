@@ -1,0 +1,469 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2944A782-1F78-4CC1-9E45-F4FEC98A8AE5}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>employeevote</RootNamespace>
+    <AssemblyName>employeevote</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=19.1.0.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\VenkatTeja\Documents\ASP.NET AJAX Control Toolkit\Bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="EncryptPwd">
+      <HintPath>..\..\..\6-10-2019 - test\VideoCampaign\VideoCampaign\bin\EncryptPwd.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="AspNet.ScriptManager.bootstrap">
+      <HintPath>..\packages\AspNet.ScriptManager.bootstrap.3.3.7\lib\net45\AspNet.ScriptManager.bootstrap.dll</HintPath>
+    </Reference>
+    <Reference Include="AspNet.ScriptManager.jQuery">
+      <HintPath>..\packages\AspNet.ScriptManager.jQuery.3.3.1\lib\net45\AspNet.ScriptManager.jQuery.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ScriptManager.MSAjax">
+      <HintPath>..\packages\Microsoft.AspNet.ScriptManager.MSAjax.5.0.0\lib\net45\Microsoft.ScriptManager.MSAjax.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ScriptManager.WebForms">
+      <HintPath>..\packages\Microsoft.AspNet.ScriptManager.WebForms.5.0.0\lib\net45\Microsoft.ScriptManager.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.6.0\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Web.Optimization.WebForms">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.WebForms.1.1.3\lib\net45\Microsoft.AspNet.Web.Optimization.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.FriendlyUrls">
+      <HintPath>..\packages\Microsoft.AspNet.FriendlyUrls.Core.1.0.2\lib\net45\Microsoft.AspNet.FriendlyUrls.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="assets\adminreport.aspx" />
+    <Content Include="assets\css\animate.css" />
+    <Content Include="assets\css\bootstrap.min.css" />
+    <Content Include="assets\css\font-awesome.min.css" />
+    <Content Include="assets\css\isotop.css" />
+    <Content Include="assets\css\magnific-popup.css" />
+    <Content Include="assets\css\owl.carousel.min.css" />
+    <Content Include="assets\css\owl.video.play.html" />
+    <Content Include="assets\css\responsive.css" />
+    <Content Include="assets\css\style.css" />
+    <Content Include="assets\css\xsIcon.css" />
+    <Content Include="assets\fonts\fontawesome-webfont3e6e.svg" />
+    <Content Include="assets\fonts\iconfont3963.svg" />
+    <Content Include="assets\images\about\about_img.jpg" />
+    <Content Include="assets\images\about\connect_img.jpg" />
+    <Content Include="assets\images\about\learn_img.jpg" />
+    <Content Include="assets\images\avatar\author.jpg" />
+    <Content Include="assets\images\avatar\author2.html" />
+    <Content Include="assets\images\avatar\author3.jpg" />
+    <Content Include="assets\images\banner_image_vote.jpg" />
+    <Content Include="assets\images\banner\banner_img.png" />
+    <Content Include="assets\images\banner\leanr_bg.png" />
+    <Content Include="assets\images\bg\funfact_bg.jpg" />
+    <Content Include="assets\images\bg\outcomes_bg.jpg" />
+    <Content Include="assets\images\bg\top_right_bg.png" />
+    <Content Include="assets\images\blobby_meeting.jpg" />
+    <Content Include="assets\images\blog\blog-details.jpg" />
+    <Content Include="assets\images\blog\blog1.jpg" />
+    <Content Include="assets\images\blog\blog2.jpg" />
+    <Content Include="assets\images\blog\blog3.jpg" />
+    <Content Include="assets\images\book_seat_img.jpg" />
+    <Content Include="assets\images\cta_img.jpg" />
+    <Content Include="assets\images\employeephotos\Ajith.jpg" />
+    <Content Include="assets\images\employeephotos\Bhoomika.jpg" />
+    <Content Include="assets\images\employeephotos\EeshaRebba.jpg" />
+    <Content Include="assets\images\employeephotos\Karthii.jpg" />
+    <Content Include="assets\images\employeephotos\Minnapan.jpg" />
+    <Content Include="assets\images\employeephotos\pawan.jpg" />
+    <Content Include="assets\images\employeephotos\prabas.jpg" />
+    <Content Include="assets\images\employeephotos\Rajesh.jpg" />
+    <Content Include="assets\images\employeephotos\Harrikanth.jpg" />
+    <Content Include="assets\images\employeephotos\saipallavi.jpg" />
+    <Content Include="assets\images\employeephotos\Satish.jpg" />
+    <Content Include="assets\images\employeephotos\sharvanandh.jpg" />
+    <Content Include="assets\images\employeephotos\Sivakarhi.jpg" />
+    <Content Include="assets\images\employeephotos\Surya.jpg" />
+    <Content Include="assets\images\employeephotos\swathi.jpg" />
+    <Content Include="assets\images\employeephotos\Thamanna.jpg" />
+    <Content Include="assets\images\employeephotos\varun.jpg" />
+    <Content Include="assets\images\employeephotos\venkat.jpg" />
+    <Content Include="assets\images\employeephotos\Vijay.jpg" />
+    <Content Include="assets\images\employeephotos\vijaydev.jpg" />
+    <Content Include="assets\images\funfact_bg.jpg" />
+    <Content Include="assets\images\gallery\gallery1.jpg" />
+    <Content Include="assets\images\gallery\gallery10.png" />
+    <Content Include="assets\images\gallery\gallery11.png" />
+    <Content Include="assets\images\gallery\gallery2.jpg" />
+    <Content Include="assets\images\gallery\gallery3.jpg" />
+    <Content Include="assets\images\gallery\gallery4.jpg" />
+    <Content Include="assets\images\gallery\gallery5.jpg" />
+    <Content Include="assets\images\gallery\gallery6.jpg" />
+    <Content Include="assets\images\gallery\gallery7.jpg" />
+    <Content Include="assets\images\gallery\gallery8.jpg" />
+    <Content Include="assets\images\gallery\gallery9.jpg" />
+    <Content Include="assets\images\gallery\img_1.png" />
+    <Content Include="assets\images\gallery\img_2.png" />
+    <Content Include="assets\images\gallery\img_3.png" />
+    <Content Include="assets\images\gallery\img_4.png" />
+    <Content Include="assets\images\gallery\img_5.png" />
+    <Content Include="assets\images\hero_area\banner2.jpg" />
+    <Content Include="assets\images\hero_area\banner3.jpg" />
+    <Content Include="assets\images\hero_area\banner4.jpg" />
+    <Content Include="assets\images\hero_area\banner5.jpg" />
+    <Content Include="assets\images\hero_area\banner6.jpg" />
+    <Content Include="assets\images\hero_area\banner7.jpg" />
+    <Content Include="assets\images\hero_area\banner_bg.jpg" />
+    <Content Include="assets\images\hero_area\banner_img.png" />
+    <Content Include="assets\images\hero_area\banner_slices.png" />
+    <Content Include="assets\images\hero_area\banner_slices2.png" />
+    <Content Include="assets\images\hero_area\header_vector.png" />
+    <Content Include="assets\images\hero_area\small_vector.png" />
+    <Content Include="assets\images\lines-2.png" />
+    <Content Include="assets\images\logos\logo-alt.png" />
+    <Content Include="assets\images\logos\logo-v2.png" />
+    <Content Include="assets\images\logos\logo.png" />
+    <Content Include="assets\images\pricing\dollar.png" />
+    <Content Include="assets\images\pricing\dot.png" />
+    <Content Include="assets\images\pricing\dot2.png" />
+    <Content Include="assets\images\pricing\pricing_img.jpg" />
+    <Content Include="assets\images\pricing\ticket_bg.jpg" />
+    <Content Include="assets\images\schedule_lunch.png" />
+    <Content Include="assets\images\shap\cta_bg.png" />
+    <Content Include="assets\images\shap\Direction_memphis1.png" />
+    <Content Include="assets\images\shap\Direction_memphis2.png" />
+    <Content Include="assets\images\shap\Direction_memphis3.png" />
+    <Content Include="assets\images\shap\Direction_memphis4.png" />
+    <Content Include="assets\images\shap\funfact_wave.png" />
+    <Content Include="assets\images\shap\home_schedule_memphis1.png" />
+    <Content Include="assets\images\shap\home_schedule_memphis2.png" />
+    <Content Include="assets\images\shap\home_speaker_memphis1.png" />
+    <Content Include="assets\images\shap\home_speaker_memphis2.png" />
+    <Content Include="assets\images\shap\home_speaker_memphis3.png" />
+    <Content Include="assets\images\shap\news_memphis1.png" />
+    <Content Include="assets\images\shap\news_memphis2.png" />
+    <Content Include="assets\images\shap\pricing_memphis1.png" />
+    <Content Include="assets\images\shap\Shape-1.png" />
+    <Content Include="assets\images\shap\subscribe_pattern.png" />
+    <Content Include="assets\images\shap\subscribe_slice_left.png" />
+    <Content Include="assets\images\shap\subscribe_slice_right.png" />
+    <Content Include="assets\images\shap\title-red.png" />
+    <Content Include="assets\images\shap\title-white.png" />
+    <Content Include="assets\images\shap\title.png" />
+    <Content Include="assets\images\speakers\speaker_bg.png" />
+    <Content Include="assets\images\sponsors\sponsor-1.png" />
+    <Content Include="assets\images\sponsors\sponsor-2.png" />
+    <Content Include="assets\images\sponsors\sponsor-3.png" />
+    <Content Include="assets\images\sponsors\sponsor-4.png" />
+    <Content Include="assets\images\sponsors\sponsor-5.png" />
+    <Content Include="assets\images\sponsors\sponsor-6.png" />
+    <Content Include="assets\images\sponsors\sponsor-7.png" />
+    <Content Include="assets\images\sponsors\sponsor-8.png" />
+    <Content Include="assets\images\sponsors\sponsor1.png" />
+    <Content Include="assets\images\sponsors\sponsor2.png" />
+    <Content Include="assets\images\sponsors\sponsor3.png" />
+    <Content Include="assets\images\sponsors\sponsor4.png" />
+    <Content Include="assets\images\sponsors\sponsor5.png" />
+    <Content Include="assets\images\sponsors\sponsor6.png" />
+    <Content Include="assets\images\sponsors\sponsor7.png" />
+    <Content Include="assets\images\sponsors\sponsor8.png" />
+    <Content Include="assets\images\sponsors\sponsor9.png" />
+    <Content Include="assets\images\sponsors\sponsor_img.jpg" />
+    <Content Include="assets\images\venue\event-hall.jpg" />
+    <Content Include="assets\images\venue\venue-1.jpg" />
+    <Content Include="assets\images\venue\venue-2.jpg" />
+    <Content Include="assets\images\venue\venue-3.jpg" />
+    <Content Include="assets\images\venue\venue-4.jpg" />
+    <Content Include="assets\index-5.html" />
+    <Content Include="assets\index-7.html" />
+    <Content Include="assets\Index.aspx" />
+    <Content Include="assets\js\bootstrap.min.js" />
+    <Content Include="assets\js\isotope.pkgd.min.js" />
+    <Content Include="assets\js\jquery.appear.min.js" />
+    <Content Include="assets\js\jquery.jCounter.js" />
+    <Content Include="assets\js\jquery.js" />
+    <Content Include="assets\js\jquery.magnific-popup.min.js" />
+    <Content Include="assets\js\jquery.scrollme.js" />
+    <Content Include="assets\js\main.js" />
+    <Content Include="assets\js\owl.carousel.min.js" />
+    <Content Include="assets\js\popper.min.js" />
+    <Content Include="assets\js\wow.min.js" />
+    <Content Include="assets\logout.aspx" />
+    <Content Include="assets\toast\jquery.min.js" />
+    <Content Include="assets\toast\toastr.css" />
+    <Content Include="assets\toast\toastr.js" />
+    <Content Include="assets\vote.aspx" />
+    <Content Include="Contact.aspx" />
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Site.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="assets\fonts\fontawesome-webfont3e6e.eot" />
+    <Content Include="assets\fonts\fontawesome-webfont3e6e.ttf" />
+    <Content Include="assets\fonts\fontawesome-webfont3e6e.woff" />
+    <Content Include="assets\fonts\fontawesome-webfont3e6e.woff2" />
+    <Content Include="assets\fonts\fontawesome-webfontd41d.eot" />
+    <Content Include="assets\fonts\iconfont3963.ttf" />
+    <Content Include="assets\fonts\iconfont3963.woff" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="assets\index-2.html" />
+    <Content Include="index.html" />
+    <Content Include="login.html" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\jquery-3.3.1.js" />
+    <Content Include="Scripts\jquery-3.3.1.min.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.min.js" />
+    <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Scripts\WebForms\DetailsView.js" />
+    <Content Include="Scripts\WebForms\Focus.js" />
+    <Content Include="Scripts\WebForms\GridView.js" />
+    <Content Include="Scripts\WebForms\Menu.js" />
+    <Content Include="Scripts\WebForms\MenuStandards.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjax.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxApplicationServices.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxComponentModel.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxCore.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxGlobalization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxHistory.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxNetwork.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxSerialization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxTimer.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebForms.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebServices.js" />
+    <Content Include="Scripts\WebForms\SmartNav.js" />
+    <Content Include="Scripts\WebForms\TreeView.js" />
+    <Content Include="Scripts\WebForms\WebForms.js" />
+    <Content Include="Scripts\WebForms\WebParts.js" />
+    <Content Include="Scripts\WebForms\WebUIValidation.js" />
+    <Content Include="Site.Master" />
+    <Content Include="ViewSwitcher.ascx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Bundle.config" />
+    <Content Include="Site.Mobile.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="assets\adminreport.aspx.cs">
+      <DependentUpon>adminreport.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="assets\adminreport.aspx.designer.cs">
+      <DependentUpon>adminreport.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="assets\DataAccess.cs" />
+    <Compile Include="assets\Employeedetails.cs" />
+    <Compile Include="assets\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="assets\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="assets\logout.aspx.cs">
+      <DependentUpon>logout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="assets\logout.aspx.designer.cs">
+      <DependentUpon>logout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="assets\vote.aspx.cs">
+      <DependentUpon>vote.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="assets\vote.aspx.designer.cs">
+      <DependentUpon>vote.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contact.aspx.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contact.aspx.designer.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Mobile.Master.cs">
+      <DependentUpon>Site.Mobile.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Mobile.Master.designer.cs">
+      <DependentUpon>Site.Mobile.Master</DependentUpon>
+    </Compile>
+    <Compile Include="ViewSwitcher.ascx.cs">
+      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewSwitcher.ascx.designer.cs">
+      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.3.1.min.map" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>63587</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:63587/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,212 @@
+D:\venkat working\trail 1\employeevote\employeevote\bin\employeevote.dll.config
+D:\venkat working\trail 1\employeevote\employeevote\bin\employeevote.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\employeevote.pdb
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\csc.exe
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\csc.exe.config
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\csc.rsp
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\csi.exe
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\csi.rsp
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\System.AppContext.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\System.Collections.Immutable.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\System.IO.FileSystem.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\System.Reflection.Metadata.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\vbc.exe
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\vbc.exe.config
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\vbc.rsp
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\VBCSCompiler.exe
+D:\venkat working\trail 1\employeevote\employeevote\bin\roslyn\VBCSCompiler.exe.config
+D:\venkat working\trail 1\employeevote\employeevote\bin\AjaxControlToolkit.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\Antlr3.Runtime.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\AspNet.ScriptManager.bootstrap.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\AspNet.ScriptManager.jQuery.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\EncryptPwd.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\Microsoft.ScriptManager.WebForms.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\Microsoft.Web.Infrastructure.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\Newtonsoft.Json.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\System.Web.Optimization.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\WebGrease.dll
+D:\venkat working\trail 1\employeevote\employeevote\bin\System.Web.Optimization.xml
+D:\venkat working\trail 1\employeevote\employeevote\bin\Newtonsoft.Json.xml
+D:\venkat working\trail 1\employeevote\employeevote\bin\Antlr3.Runtime.pdb
+D:\venkat working\trail 1\employeevote\employeevote\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\venkat working\trail 1\employeevote\employeevote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\venkat working\trail 1\employeevote\employeevote\obj\Release\employeevote.csprojAssemblyReference.cache
+D:\venkat working\trail 1\employeevote\employeevote\obj\Release\employeevote.csproj.CoreCompileInputs.cache
+D:\venkat working\trail 1\employeevote\employeevote\obj\Release\employeevote.csproj.CopyComplete
+D:\venkat working\trail 1\employeevote\employeevote\obj\Release\employeevote.dll
+D:\venkat working\trail 1\employeevote\employeevote\obj\Release\employeevote.pdb
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\employeevote.dll.config
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\employeevote.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\employeevote.pdb
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\csc.exe
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\csc.exe.config
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\csc.rsp
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\csi.exe
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\csi.rsp
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\System.AppContext.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\System.Collections.Immutable.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\System.IO.FileSystem.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\System.Reflection.Metadata.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\vbc.exe
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\vbc.exe.config
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\vbc.rsp
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\VBCSCompiler.exe
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\roslyn\VBCSCompiler.exe.config
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\AjaxControlToolkit.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\Antlr3.Runtime.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\AspNet.ScriptManager.bootstrap.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\AspNet.ScriptManager.jQuery.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\EncryptPwd.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\Microsoft.ScriptManager.WebForms.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\Microsoft.Web.Infrastructure.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\Newtonsoft.Json.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\System.Web.Optimization.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\WebGrease.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\System.Web.Optimization.xml
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\Newtonsoft.Json.xml
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\Antlr3.Runtime.pdb
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\obj\Release\employeevote.csprojAssemblyReference.cache
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\obj\Release\employeevote.csproj.CoreCompileInputs.cache
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\obj\Release\employeevote.csproj.CopyComplete
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\obj\Release\employeevote.dll
+D:\venkat working\trail 1\employeevote working- 21-10-19\employeevote\obj\Release\employeevote.pdb
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\employeevote.dll.config
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\employeevote.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\employeevote.pdb
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\csc.exe
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\csc.exe.config
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\csc.rsp
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\csi.exe
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\csi.rsp
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\System.AppContext.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\System.Collections.Immutable.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\System.IO.FileSystem.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\System.Reflection.Metadata.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\vbc.exe
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\vbc.exe.config
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\vbc.rsp
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\VBCSCompiler.exe
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\roslyn\VBCSCompiler.exe.config
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\AjaxControlToolkit.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\Antlr3.Runtime.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\AspNet.ScriptManager.bootstrap.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\AspNet.ScriptManager.jQuery.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\EncryptPwd.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\Microsoft.ScriptManager.WebForms.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\Microsoft.Web.Infrastructure.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\Newtonsoft.Json.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\System.Web.Optimization.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\WebGrease.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\System.Web.Optimization.xml
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\Newtonsoft.Json.xml
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\Antlr3.Runtime.pdb
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\obj\Release\employeevote.csprojAssemblyReference.cache
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\obj\Release\employeevote.csproj.CoreCompileInputs.cache
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\obj\Release\employeevote.csproj.CopyComplete
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\obj\Release\employeevote.dll
+D:\venkat working\trail 1\employeevote working- 22-10-19\employeevote\obj\Release\employeevote.pdb
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\employeevote.dll.config
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\employeevote.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\employeevote.pdb
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\csc.exe
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\csc.exe.config
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\csc.rsp
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\csi.exe
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\csi.rsp
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\System.AppContext.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\System.Collections.Immutable.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\System.IO.FileSystem.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\System.Reflection.Metadata.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\vbc.exe
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\vbc.exe.config
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\vbc.rsp
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\VBCSCompiler.exe
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\roslyn\VBCSCompiler.exe.config
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\AjaxControlToolkit.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\Antlr3.Runtime.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\AspNet.ScriptManager.bootstrap.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\AspNet.ScriptManager.jQuery.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\EncryptPwd.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\Microsoft.ScriptManager.WebForms.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\Microsoft.Web.Infrastructure.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\Newtonsoft.Json.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\System.Web.Optimization.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\WebGrease.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\System.Web.Optimization.xml
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\Newtonsoft.Json.xml
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\Antlr3.Runtime.pdb
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\obj\Release\employeevote.csprojAssemblyReference.cache
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\obj\Release\employeevote.csproj.CoreCompileInputs.cache
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\obj\Release\employeevote.csproj.CopyComplete
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\obj\Release\employeevote.dll
+D:\venkat working\trail 1\employeevote working- 25-10-19 working\employeevote\obj\Release\employeevote.pdb
