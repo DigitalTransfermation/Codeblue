@@ -1,0 +1,186 @@
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\obj\Debug\Nphrisservice.csprojAssemblyReference.cache
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\obj\Debug\Nphrisservice.csproj.CoreCompileInputs.cache
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\Nphrisservice.dll.config
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\Nphrisservice.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\Nphrisservice.pdb
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\csc.exe
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\csc.exe.config
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\csc.rsp
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\csi.exe
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\csi.rsp
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\System.AppContext.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\System.Collections.Immutable.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\System.IO.FileSystem.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\System.Reflection.Metadata.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\vbc.exe
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\vbc.exe.config
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\vbc.rsp
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\VBCSCompiler.exe
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\roslyn\VBCSCompiler.exe.config
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\Newtonsoft.Json.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Net.Http.Formatting.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.Http.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.Http.WebHost.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\Newtonsoft.Json.xml
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Net.Http.Formatting.xml
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.Http.xml
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.Http.WebHost.xml
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\obj\Debug\Nphrisservice.csproj.CopyComplete
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\obj\Debug\Nphrisservice.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\obj\Debug\Nphrisservice.pdb
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\EncryptPwd.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\Antlr3.Runtime.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\Microsoft.Web.Infrastructure.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.Helpers.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.Mvc.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.Optimization.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.Razor.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.Deployment.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.Razor.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\WebGrease.dll
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\Antlr3.Runtime.pdb
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.Helpers.xml
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.Mvc.xml
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.Optimization.xml
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.Razor.xml
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.xml
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.Deployment.xml
+D:\venkat working\Video Campaign\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.Razor.xml
+D:\vengat\Nphrisservice\Nphrisservice\bin\Nphrisservice.dll.config
+D:\vengat\Nphrisservice\Nphrisservice\bin\Nphrisservice.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\Nphrisservice.pdb
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\csc.exe
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\csc.exe.config
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\csc.rsp
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\csi.exe
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\csi.rsp
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\System.AppContext.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\System.Collections.Immutable.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\System.IO.FileSystem.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\System.Reflection.Metadata.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\vbc.exe
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\vbc.exe.config
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\vbc.rsp
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\VBCSCompiler.exe
+D:\vengat\Nphrisservice\Nphrisservice\bin\roslyn\VBCSCompiler.exe.config
+D:\vengat\Nphrisservice\Nphrisservice\bin\Antlr3.Runtime.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\Microsoft.Web.Infrastructure.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\Newtonsoft.Json.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Net.Http.Formatting.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Helpers.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Http.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Http.WebHost.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Mvc.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Optimization.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Razor.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.Deployment.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.Razor.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\WebGrease.dll
+D:\vengat\Nphrisservice\Nphrisservice\bin\Antlr3.Runtime.pdb
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Helpers.xml
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Mvc.xml
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Optimization.xml
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Razor.xml
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.xml
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.Deployment.xml
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.Razor.xml
+D:\vengat\Nphrisservice\Nphrisservice\bin\Newtonsoft.Json.xml
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Net.Http.Formatting.xml
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Http.xml
+D:\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Http.WebHost.xml
+D:\vengat\Nphrisservice\Nphrisservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\vengat\Nphrisservice\Nphrisservice\obj\Debug\Nphrisservice.csprojAssemblyReference.cache
+D:\vengat\Nphrisservice\Nphrisservice\obj\Debug\Nphrisservice.csproj.CoreCompileInputs.cache
+D:\vengat\Nphrisservice\Nphrisservice\obj\Debug\Nphrisservice.csproj.CopyComplete
+D:\vengat\Nphrisservice\Nphrisservice\obj\Debug\Nphrisservice.dll
+D:\vengat\Nphrisservice\Nphrisservice\obj\Debug\Nphrisservice.pdb
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\Nphrisservice.dll.config
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\Nphrisservice.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\Nphrisservice.pdb
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\csc.exe
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\csc.exe.config
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\csc.rsp
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\csi.exe
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\csi.rsp
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\System.AppContext.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\System.Collections.Immutable.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\System.IO.FileSystem.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\System.Reflection.Metadata.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\vbc.exe
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\vbc.exe.config
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\vbc.rsp
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\VBCSCompiler.exe
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\roslyn\VBCSCompiler.exe.config
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\Antlr3.Runtime.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\Microsoft.Web.Infrastructure.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\Newtonsoft.Json.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Net.Http.Formatting.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Helpers.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Http.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Http.WebHost.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Mvc.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Optimization.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Razor.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.Deployment.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.Razor.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\WebGrease.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\Antlr3.Runtime.pdb
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Helpers.xml
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Mvc.xml
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Optimization.xml
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Razor.xml
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.xml
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.Deployment.xml
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.WebPages.Razor.xml
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\Newtonsoft.Json.xml
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Net.Http.Formatting.xml
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Http.xml
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\System.Web.Http.WebHost.xml
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\obj\Debug\Nphrisservice.csprojAssemblyReference.cache
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\obj\Debug\Nphrisservice.csproj.CopyComplete
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\obj\Debug\Nphrisservice.dll
+D:\Budget\Budget\API\vengat\Nphrisservice\Nphrisservice\obj\Debug\Nphrisservice.pdb
